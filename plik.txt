@@ -1,1 +1,3 @@
 Ala ma kota.
+
+Dodajemy nową, eksperymentalną funkcjonalność.
