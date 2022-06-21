@@ -1,0 +1,2 @@
+Dodanie funkcjonalności C.
+
